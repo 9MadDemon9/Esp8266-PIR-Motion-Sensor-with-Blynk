@@ -54,8 +54,11 @@ The PIR motion sensor is excellent at detecting movement. According to this tuto
 
 ### Built With
 
-* Esp8266
-* PIR Motion Sensor
+* 
+<img src="images/esp8266.png" width="40%" height="40%">Esp8266
+
+*
+<img src="images/pir.png" width="40%" height="40%">Pir Motion Sensor (hc-sr501)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
