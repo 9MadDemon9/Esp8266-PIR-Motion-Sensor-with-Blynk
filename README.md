@@ -46,7 +46,7 @@
 
 ## About The Project
 
-The PIR motion sensor is excellent at detecting movement. According to this tutorial, we use the Pir motion sensor to detect movement and the esp8266 as a base to communicate with the sensor and return to the Blynk App, which sends a notice anytime the sensor detects movement.
+The PIR motion sensor is excellent at detecting movement. In this tutorial, we use the Pir motion sensor to detect movement and the esp8266 as a base to communicate with the sensor and return to the Blynk App, which sends a notification anytime the sensor detects movement.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
